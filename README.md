@@ -1,2 +1,2 @@
-# mi--dashboard-htnl
+# mi-dashboard-html
 Mini proyecto de Analisis de ventas hecho con python y visualizado en HTML include graficos interactives creados con plotly
